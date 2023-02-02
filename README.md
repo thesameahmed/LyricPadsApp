@@ -1,1 +1,1 @@
-# Lyric-Pads-App
+# LyricPadsApp
